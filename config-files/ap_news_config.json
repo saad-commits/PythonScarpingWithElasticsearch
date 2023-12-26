@@ -1,0 +1,64 @@
+
+{
+ "title":{
+    "by":"body" ,  
+    "id":"",
+    "tag":"h1",
+    "class":"Page-headline",
+    "attributes":{},
+    "xpath":""
+  },
+
+ "url":{
+  "by":"body" ,  
+  "id":"",
+  "tag":"meta",
+  "class":"",
+  "attributes":{
+    "property": "og:url"
+  },
+  "xpath":""
+ },
+
+ "category":{
+  "by":"body" ,  
+  "id":"",
+  "tag":"meta",
+  "class":"",
+  "attributes":{
+    "property": "article:section"
+  },
+  "xpath":""
+ },
+ "newsSource":{
+  "by":"body" ,  
+  "id":"",
+  "tag":"meta",
+  "class":"",
+  "attributes":{
+    "property": "og:site_name"
+  },
+  "xpath":""
+ },
+ "description":{
+  "by":"body" ,  
+  "id":"",
+  "tag":"meta",
+  "class":"",
+  "attributes":{
+    "property": "og:description"
+  },
+  "xpath":""
+ },
+ "publishedDateTime":{
+  "by":"body" ,  
+  "id":"",
+  "tag":"meta",
+  "class":"",
+  "attributes":{
+    "property": "article:published_time"
+  },
+  "xpath":""
+ }
+
+}
